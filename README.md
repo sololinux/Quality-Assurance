@@ -46,7 +46,7 @@ This repository contains the QA workflow, documentation, and test case files use
 
 This repository includes a complete **Test Case Document (Excel)** with priority, expected results, and status columns.
 
-👉 **Download Test Cases:**  
+👉 Download Test Cases:
 [Click here to download QA_Test_Cases.xlsx](QA_Test_Cases.xlsx
 ---
 
