@@ -65,6 +65,7 @@ It helps maintain consistency, clarity, and accurate tracking of issues across t
 | ----------------------- | ----------------------------------------------------------------------------- |
 | **Bug ID:**             | BUG_001                                                                       |
 | **Title:**              | Login button not responding on click                                          |
+| **Priority**            | Low / Medium / High                                                           |
 | **Environment:**        | Chrome v120, Windows 10                                                       |
 | **Preconditions:**      | User is on login page                                                         |
 | **Steps to Reproduce:** | 1. Open login page<br>2. Enter valid credentials<br>3. Click the Login button |
